@@ -18,7 +18,10 @@ public class Libro {
     public int isbn;
     public String titulo;
     public String autor;
-    public int numeropaginas;     
+    public int numeropaginas;
+    public String atrib1;
+    
+    
 
     public Libro(int isbn, String titulo, String autor, int numeropaginas) {
         this.isbn = isbn;
