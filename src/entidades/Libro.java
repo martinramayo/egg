@@ -20,6 +20,7 @@ public class Libro {
     public String autor;
     public int numeropaginas;
     public String atrib1;
+    private String atrib2;
     
     
 
